@@ -24,7 +24,7 @@
 
 Chapter three consisted of creating an application to share paid content, where integration with Stripe, FaunaDB and Prismic for content management was carried out.
 
-<img width="600" src=".github/tela1.png" alt="Screenshot" />
+<img width="600" src=".github/tela1.png" alt="Screenshot" /><img width="600" src=".github/tela2.png" alt="Screenshot" /><img width="600" src=".github/tela3.png" alt="Screenshot" />
 
 ## ✨ Technologies
 
