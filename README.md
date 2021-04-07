@@ -7,7 +7,6 @@
 <p align="center">
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -36,10 +35,6 @@ This project was developed using the following technologies:
 - [FaunaDB](https://fauna.com/)
 - [Stripe](https://stripe.com/)
 - [Prismic](https://prismic.io/)
-
-## 🔥 Preview
-
-In progress...
 
 ## 🚀 Getting started
 
